@@ -4,7 +4,7 @@ Created on 2024-07-07 13:12:00
 
 @title: Gaussian log processor functions for GUI.
 @author: Guo Sibei
-@contact: guosibei@mail.ustc.com
+@contact: guosibei@mail.ustc.edu.cn
 @version: 1.0
 @description: Extract data from Gaussian output .log/ .out file.
 """
