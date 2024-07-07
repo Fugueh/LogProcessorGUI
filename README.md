@@ -36,7 +36,7 @@ python log_processor_gui.py
 
 Will give this window:
 
-![image-20240707132602767](./image-20240707132602767.png)
+![image-20240707132602767](./illustration.png)
 
 Example: Show all single point energies in log file.
 
