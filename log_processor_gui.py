@@ -32,7 +32,7 @@ spectra = {
     #'Normal coordinate': lambda file_path: read_normal_coords(file_path),
     'Force constant': lambda file_path: read_frc_const(file_path),
     'Reduced mass': lambda file_path: read_red_mass(file_path),
-    'NMR shelding': lambda file_path: read_NMR_iso(file_path)
+    'NMR shielding': lambda file_path: read_NMR_iso(file_path)
 }
 
 operations = {
